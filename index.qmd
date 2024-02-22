@@ -1,5 +1,0 @@
----
-title: "Dr. Hauschild's 378 Project v3"
----
-
-I will be working through Alex Gold's book *DevOps for Data Science*.
