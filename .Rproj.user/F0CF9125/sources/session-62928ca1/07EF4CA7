@@ -3,7 +3,7 @@
     "path": "C:/Users/Jessica.Hauschild/OneDrive - afacademy.af.edu/Math 378/Spring 2024/DevOps3/eda.qmd",
     "project_path": "eda.qmd",
     "type": "quarto_markdown",
-    "hash": "2377737094",
+    "hash": "2265509187",
     "contents": "",
     "dirty": false,
     "created": 1708633342437.0,
@@ -17,16 +17,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "cursorPosition": "49,0",
+        "cursorPosition": "9,0",
         "scrollLine": "0",
-        "rmdVisualModeLocation": "858:730"
+        "rmdVisualModeLocation": "332:289"
     },
     "folds": "",
-    "lastKnownWriteTime": 1708633457,
+    "lastKnownWriteTime": 1708634767,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1708633457137,
+    "last_content_update": 1708634767204,
     "read_only": false,
     "read_only_alternatives": []
 }

@@ -3,7 +3,7 @@
     "path": "C:/Users/Jessica.Hauschild/OneDrive - afacademy.af.edu/Math 378/Spring 2024/DevOps3/model.qmd",
     "project_path": "model.qmd",
     "type": "quarto_markdown",
-    "hash": "0",
+    "hash": "1194827599",
     "contents": "",
     "dirty": false,
     "created": 1708633516908.0,
@@ -17,16 +17,16 @@
         "Source": "Source",
         "docOutlineVisible": "1",
         "rmdVisualCollapsedChunks": "",
-        "cursorPosition": "78,0",
+        "cursorPosition": "97,0",
         "scrollLine": "0",
-        "rmdVisualModeLocation": "1506:1437"
+        "rmdVisualModeLocation": "1943:2140"
     },
     "folds": "",
-    "lastKnownWriteTime": 1708633762,
+    "lastKnownWriteTime": 1708634899,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1708633762148,
+    "last_content_update": 1708634900021,
     "read_only": false,
     "read_only_alternatives": []
 }

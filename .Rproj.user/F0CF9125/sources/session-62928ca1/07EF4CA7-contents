@@ -18,6 +18,7 @@ library(DBI)
 library(duckdb)  
 
 con <- DBI::dbConnect(duckdb::duckdb(), dbdir = "my-db.duckdb") 
+#DBI::dbWriteTable(con, "penguins", palmerpenguins::penguins)
 df <- dplyr::tbl(con, "penguins")
 ```
 
